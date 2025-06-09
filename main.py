@@ -8,9 +8,8 @@ import dns.resolver
 
 DOMAINS = [
     "google.com",
-    "ngc.gov.in",
-    "results.nic.in",
-    "mahafood.gov.in",
+    "instagram.com",
+    "facebook.com",
     "expired.badssl.com"
 ]
 
